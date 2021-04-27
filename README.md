@@ -14,8 +14,9 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-<a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@ishan-dixit/0"><img src="https://github-readme-medium-recent-article.vercel.app/medium/@ishan-dixit/0" alt="Recent article #0"></a>
  <a href="https://github.com/dixitishan811">
     <img src="https://github-readme-stats.vercel.app/api?username=dixitishan811&count_private=true&show_icons=true&hide=contribs&include_all_commits=true" />
   </a>
+
+<a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@ishan-dixit/0"><img src="https://github-readme-medium-recent-article.vercel.app/medium/@ishan-dixit/0" alt="Recent article #0"></a>
 
